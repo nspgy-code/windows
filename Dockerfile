@@ -21,7 +21,7 @@ RUN <<EOF
 
   apt-get update
   apt-get --no-install-recommends -y install \
-    gcab \
+    gcab \hyhyyuy7y7y
     samba \
     mtools \
     wimtools \
