@@ -1,5 +1,10 @@
 # syntax=docker/dockerfile:1.19
-
+ vf
+ d
+ f
+ v
+ v
+ r
 ARG VERSION_ARG="latest"
 FROM scratch AS build-amd64
 
